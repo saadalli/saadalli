@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I’m Saad 👋
 
-<!--
-**saadalli/saadalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Full Stack Developer passionate about building scalable web, mobile, and AI-powered solutions. With over 300+ hours of experience, I specialize in creating impactful digital products tailored to your needs.
 
-Here are some ideas to get you started:
+### My Expertise:
+- **Frontend**: React, Next.js, Vue.js, TypeScript, Tailwind CSS
+- **Mobile**: React Native, Kotlin, Android SDK, Firebase
+- **Backend**: Node.js, Python (Flask/Django), RESTful APIs
+- **Databases**: MySQL, MongoDB, Firebase
+- **Cloud & DevOps**: AWS, Google Cloud, Docker, Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Specialties:
+- eCommerce Development (WooCommerce, Shopify, Magento)
+- SaaS Applications & Real-Time Data Systems
+- AI Integrations & Automation Solutions
+
+Let’s build something amazing together! 🚀
